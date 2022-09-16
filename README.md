@@ -51,3 +51,4 @@ The best Random Forest R2 test score is : 0.8516768166059918 with n estimators =
 The most important features who had a major impact on the model predictions were; hour, temperature, Humidity, solar-radiation, and Winter.
 
 The model performed well in this case but as the data is time dependent, values of temperature, wind-speed, solar radiation etc. will not always be consistent. Therefore, there will be scenarios where the model might not perform well. As Machine learning is an exponentially evolving field, we will have to be prepared for all contingencies and also keep checking our model from time to time.
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
